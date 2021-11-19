@@ -3,7 +3,7 @@ Simple program to gather data from specific site (url)
 
 Gathered data from div is stored in a .csv file to read
 
-It does nothing more, I know.
+It does nothing more, for now...
 
 BUT
 
