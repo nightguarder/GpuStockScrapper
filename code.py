@@ -9,7 +9,7 @@ client.close()
 
 pagesoup = soup(htmldata, "html.parser")
 itemlocator = pagesoup.findAll('div', {"class":"container-xl px-3 px-md-4 px-lg-5"})
-filename = "github.csv"
+filename = "github.txt"
 f = open(filename, "w", encoding="utf-8")
 headers = "Github, Projects\n"
 f.write(headers)
