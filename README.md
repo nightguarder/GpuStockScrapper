@@ -1,4 +1,4 @@
-# WebpageScrapper
+# GpuStockScrapper
 Simple program to gather data from specific site (url)
 
 Gathered data from div is stored in a .csv file to read
